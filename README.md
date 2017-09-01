@@ -1,7 +1,7 @@
 # VolumeView
 I found a interesting custom view of android today.It display the number of volume,but it can't control real volume actually :-)
 
-Workshop:<br>
+WORKSHOP:<br>
 1.eclipse: eclipse-jee-oxygen-R-win32-x86_64 <br>
 
 2.ADV: <br>
@@ -20,4 +20,5 @@ Target SDK: API 19 <br>
 Compile With: API 14 <br>
 Theme: None <br>
 
+DEMO:<br>
 ![image](https://github.com/guruguruya/VolumeView/blob/master/demo.png)
