@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <attr name="titleSize" format="dimension"></attr>
+    <attr name="titleColor" format="color"></attr>
+
+
+    <declare-styleable name="LearningView">
+        <attr name="titleSize"></attr>
+        <attr name="titleColor"></attr>
+    </declare-styleable>
+
+</resources>
