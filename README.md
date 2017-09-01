@@ -19,3 +19,5 @@ Minimum Required SDK: API 14 <br>
 Target SDK: API 19 <br>
 Compile With: API 14 <br>
 Theme: None <br>
+
+![image](https://github.com/guruguruya/VolumeView/blob/master/demo.png)
