@@ -9,12 +9,12 @@ platform: 4.0 <br>
 API: 14 <br>
 CPU/ABI : ARM(armeabi-v7a) <br>
 
-3.Android Application
-Application Name: VolumeView
-Project Name: VolumeView
-Package Name: com.example.volumeview
+3.Android Application <br>
+Application Name: VolumeView <br>
+Project Name: VolumeView <br>
+Package Name: com.example.volumeview <br>
 
-Minimum Required SDK: API 14
-Target SDK: API 19
-Compile With: API 14
-Theme: None
+Minimum Required SDK: API 14 <br>
+Target SDK: API 19 <br>
+Compile With: API 14 <br>
+Theme: None <br>
