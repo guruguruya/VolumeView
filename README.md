@@ -2,7 +2,7 @@
 I found a interesting custom view of android today.It display the number of volume,but it can't control real volume actually :-)
 
 <h2>WORKSHOP:</h2>
-1.eclipse: <font size="3" color="red">eclipse-jee-oxygen-R-win32-x86_64</font><br>
+1.eclipse:eclipse-jee-oxygen-R-win32-x86_64<br>
 
 2.ADV: <br>
 Target: Name:Android 4.0 <br>
